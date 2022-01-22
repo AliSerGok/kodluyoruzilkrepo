@@ -25,4 +25,6 @@ Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değ
 
 # License
 
-[MIT](https://choosealicense.com/)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+![Proje görseli](https://github.com/AliSerGok/kodluyoruzilkrepo/blob/main/projeresim.png)
